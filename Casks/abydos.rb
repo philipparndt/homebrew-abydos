@@ -1,6 +1,6 @@
 cask "abydos" do
-  version "0.3.1"
-  sha256 "037442de0815bec44b5e4fc8607597b68971c1b40ff2aacc8c5949b88287adbc"
+  version "0.4.0"
+  sha256 "52e0aa3fea01d41b8109dab5dc4140f8b5d8eae2ae3273a095228bb6d6b22005"
 
   url "https://github.com/philipparndt/abydos/releases/download/v#{version}/Abydos-#{version}.dmg"
   name "Abydos"
