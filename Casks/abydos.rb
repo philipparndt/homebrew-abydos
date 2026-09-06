@@ -1,3 +1,6 @@
+# typed: strict
+# frozen_string_literal: true
+
 cask "abydos" do
   version "0.14.0"
   sha256 "a737231bb16aaf82053500c67de9e4b93cc5f052fb35b63c528b307c9f04cdf0"
