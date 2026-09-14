@@ -2,8 +2,8 @@
 # frozen_string_literal: true
 
 cask "abydos" do
-  version "0.20.8"
-  sha256 "f9f3715020553d0c0c1a15653d646f16d4c81bcbf7bafe646ff451810a5bff7c"
+  version "0.21.0"
+  sha256 "ca1b3fde43ba96dd57dc7fd19c29f38ed1620416ae15e9dd9c32bf92269bb8a3"
 
   url "https://github.com/philipparndt/abydos/releases/download/v#{version}/Abydos-#{version}.dmg"
   name "Abydos"
